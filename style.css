@@ -1,0 +1,43 @@
+
+.sedanCard
+{
+    background-color: hsl(31, 77%, 52%); 
+    border-top-left-radius: 20px;
+    padding: 40px;
+}
+
+.suvsCard
+{
+    background-color: hsl(184, 100%, 22%); 
+    padding: 40px;
+
+}
+.luxuryCard
+{
+    background-color: hsl(179, 100%, 13%);
+    border-bottom-right-radius: 20px;
+    padding: 40px;
+
+}
+
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    font-family: Lexend Deca;
+
+}
+h1{
+    padding-top: 20px;
+
+    color: hsl(0, 0%, 95%);
+    font-family: Big Shoulders Display;
+    font-weight: 700;
+}
+
+.button{
+border-radius: 20px;
+font-family: Lexend Deca;
+
+}
